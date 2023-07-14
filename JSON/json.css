@@ -1,0 +1,53 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	font-family: sans-serif;
+	min-height: 100vh;
+	color: #555;
+}
+
+table{
+	width:  1000px;
+	margin: 30px auto;
+}
+
+table th{
+	padding: 10px 0;
+	background-color:thistle                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    ;
+	border:  thin solid #d4d4d4;
+}
+
+table td{
+	padding: 10px;
+	border:  thin solid #d4d4d4;
+	width: 18%;
+	text-align: center;
+	background-color: #fff;
+}
+
+/* 
+
+table td.total-price{
+	font-weight: bold;
+	font-size: 22px;
+}
+table a{
+	text-decoration: none;
+	color: darkred;
+	background-color: #ffecef;
+	padding: 10px 15px;
+}
+table a:active{
+	background-color: #ccf4d6;
+	color:  green;
+}
+
+table select{
+	padding: 10px;
+	width:  200px;
+	font-size: 16px;
+} */
